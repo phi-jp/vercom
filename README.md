@@ -1,2 +1,2 @@
 # vercom
-version compair plugin
+version compare plugin
